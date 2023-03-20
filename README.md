@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spz404
--  I'm a dumb italian cs student 
--  I’m currently learning how to be smart 
+-  I'm a dumb italian cs student at unimib
+-  currently learning how to be smart 
 
 
 <!---
